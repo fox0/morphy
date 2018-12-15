@@ -1,4 +1,8 @@
-pymorphy2[fast]
+requests
 
+# apt-get install portaudio19-dev
+pyaudio
+
+pymorphy2[fast]
 # todo Last released: Aug 29, 2017
 pymorphy2-dicts-ru
